@@ -1,1 +1,2 @@
- tes
+ NIM: C2083207014
+ password: 12345
